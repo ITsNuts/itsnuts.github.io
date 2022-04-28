@@ -3,4 +3,4 @@
 ## Games
 | Game | Itch.io | Steam | Google Play | Release date |
 | ------ | ------ | ------ | ------ | ------ |
-| Nuts Space Shooter | [Itch.io](https://itsnuts.itch.io/nuts-space-shooter) | [Steam](#) | [Google Play](#) | 2022-06-01 |
+| Nuts Space Shooter | [Itch.io](https://itsnuts.itch.io/nuts-space-shooter) | [Steam](https://store.steampowered.com/app/1980990) | [Google Play](https://play.google.com/store/apps/details?id=com.itsnuts.spaceshooter2) | 2022-06-01 |
